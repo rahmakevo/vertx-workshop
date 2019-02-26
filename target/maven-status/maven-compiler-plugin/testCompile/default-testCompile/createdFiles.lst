@@ -1,0 +1,14 @@
+com\mycompany\vertx_micro_services\integration\python\PythonIntegrationTests.class
+com\mycompany\vertx_micro_services\unit\ExampleUnitTest.class
+com\mycompany\vertx_micro_services\integration\javascript\JavaScriptIntegrationTests.class
+com\mycompany\vertx_micro_services\integration\java\BasicIntegrationTest$2.class
+com\mycompany\vertx_micro_services\integration\java\ModuleIntegrationTest$1.class
+com\mycompany\vertx_micro_services\integration\java\SomeVerticle.class
+com\mycompany\vertx_micro_services\integration\java\BasicIntegrationTest$1.class
+com\mycompany\vertx_micro_services\integration\java\ModuleIntegrationTest$2.class
+com\mycompany\vertx_micro_services\integration\ruby\RubyIntegrationTests.class
+com\mycompany\vertx_micro_services\integration\java\BasicIntegrationTest.class
+com\mycompany\vertx_micro_services\integration\java\ModuleIntegrationTest.class
+com\mycompany\vertx_micro_services\integration\groovy\GroovyIntegrationTests.class
+com\mycompany\vertx_micro_services\integration\java\BasicIntegrationTest$3.class
+com\mycompany\vertx_micro_services\integration\java\BasicIntegrationTest$1$1.class
